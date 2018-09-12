@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+
+[id*=bukti-]{
+    z-index:9999;
+	position: fixed;
+	background: rgba(0,0,0,0.8);
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: none;
+	margin:auto;
+}
+
+.modals{
+    position: absolute;	
+    width:50%; 
+    background:white;
+   	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin:auto;
+
+}
+
+[id*=bukti-] img{
+	position: absolute;	
+	max-width: 100%;
+	height: auto;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin:auto;
+}
+
+.view{
+	display: block;
+}
+
+.hide{
+	display: none;
+}
+
+.selected{
+	opacity: 0.3;
+	pointer-events: none;
+}
+
+h1,h2,h3,h4{
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+label{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+}
+
+th{
+	font-family: 'Quicksand', sans-serif;
+	font-size:14px;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: rgb(82, 54, 33) !important;
+}
+
+.skin-blue .main-header .logo {
+    background-color: rgb(82, 54, 33) ;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: #bf6820;
+}
+
+.skin-blue .main-header .logo:hover {
+    background-color: #bf6820;
+}
+
+.box.box-primary {
+    border-top-color: rgb(100, 54, 33);
+}
+
+.btn-primary{
+	background-color: #bf6820;
+	border: 1px solid #bf6820;
+}
+.btn-primary:hover{
+	background-color: #C67939;
+}
+
+.btn-primary:focus{
+	background-color: #C67939;
+}
+.bg-light-blue, .label-primary, .modal-primary .modal-body {
+    background-color: rgb(100, 54, 33) !important;
+}
+.skin-blue .sidebar-menu > li .active > a {
+    border-left-color: rgb(100, 54, 33) !important;
+}
+
+.scroll{
+	max-height:500px;overflow-x:auto;
+}
+.btn-danger{
+	background-color: #E74C3C;
+}
+.skin-blue .sidebar-form input[type="text"], .skin-blue .sidebar-form .btn{
+	background-color:white;
+}
+
+.skin-blue .sidebar-menu>li.active>a {
+    border-left-color: #BF6820;
+}
+.skin-blue .sidebar-menu>li.header {
+    color: white;
+    background: #523621;
+}
+.skin-blue .sidebar-menu>li:hover>a, .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li.menu-open>a {
+    color: #fff;
+    background: #181008;
+}
+.skin-blue .sidebar-menu>li>.treeview-menu {
+    margin: 0 1px;
+    background: #2d2217;
+}
+.small-box>.inner {
+    padding: 10px;
+	color: white;
+}
+.bg-yellow{
+	background-color: #BF6820 !important;
+}
+
+.bg-brown{
+	background-color: #523621;
+}

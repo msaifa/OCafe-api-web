@@ -1,0 +1,22 @@
+[09-Feb-2018 15:18:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/komputerkitdev/public_html/ocafe/application/controllers/Admin/Cart.php on line 119
+[09-Feb-2018 15:20:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/komputerkitdev/public_html/ocafe/application/controllers/Admin/Cart.php on line 119
+[09-Feb-2018 15:20:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/komputerkitdev/public_html/ocafe/application/controllers/Admin/Cart.php on line 119
+[09-Feb-2018 15:20:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/komputerkitdev/public_html/ocafe/application/controllers/Admin/Cart.php on line 119
+[09-Feb-2018 15:20:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/komputerkitdev/public_html/ocafe/application/controllers/Admin/Cart.php on line 119
+[09-Feb-2018 15:21:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/komputerkitdev/public_html/ocafe/application/controllers/Admin/Cart.php on line 119
+[11-Feb-2018 18:47:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/komputerkitdev/public_html/ocafe/application/views/admin/jenis.php on line 76
+[22-Feb-2018 18:47:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/komputerkitdev/public_html/ocafe/application/controllers/Admin/Barang.php on line 157
+[23-Feb-2018 19:50:39 Asia/Jakarta] PHP Fatal error:  Cannot redeclare CPelanggan::getDetailHistory() in /home/komputerkitdev/public_html/ocafe/application/controllers/CPelanggan.php on line 82
+[23-Feb-2018 19:50:47 Asia/Jakarta] PHP Fatal error:  Cannot redeclare CPelanggan::getDetailHistory() in /home/komputerkitdev/public_html/ocafe/application/controllers/CPelanggan.php on line 82
+[24-Feb-2018 07:36:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 107
+[24-Feb-2018 07:37:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 107
+[24-Feb-2018 07:39:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 107
+[24-Feb-2018 07:39:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 107
+[24-Feb-2018 07:41:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 107
+[24-Feb-2018 07:43:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 107
+[24-Feb-2018 07:43:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 107
+[24-Feb-2018 07:45:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 107
+[24-Feb-2018 07:46:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 109
+[24-Feb-2018 07:47:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 109
+[24-Feb-2018 07:47:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method Muser::custom_num_rows() in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 109
+[24-Feb-2018 07:50:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/komputerkitdev/public_html/ocafe/application/views/admin/homepage.php on line 46
